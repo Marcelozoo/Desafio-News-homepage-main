@@ -1,13 +1,8 @@
-## The challenge
+O desafio é construir a página inicial deste site de notícias e fazê-la parecer o mais próximo possível do design.
 
-Your challenge is to build out this news website homepage and get it looking as close to the design as possible.
+Você pode usar qualquer ferramenta que desejar para ajudá-lo a concluir o desafio. Portanto, se você tem algo que gostaria de praticar, sinta-se à vontade para tentar.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+Seus usuários devem ser capazes de:
 
-Your users should be able to:
-
-- View the optimal layout for the interface depending on their device's screen size
-- See hover and focus states for all interactive elements on the page
-
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
-
+Veja o layout ideal para a interface, dependendo do tamanho da tela do dispositivo
+Veja os estados de focalização e foco para todos os elementos interativos na página
