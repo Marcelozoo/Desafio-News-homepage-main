@@ -1,4 +1,6 @@
-![Design preview for the News homepage coding challenge](./design/resultado.png)
+Resultado:
+
+(./design/resultado.png)
 
 O desafio é construir a página inicial deste site de notícias e fazê-la parecer o mais próximo possível do design.
 
